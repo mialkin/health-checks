@@ -1,4 +1,6 @@
-# HealthChecks
+# Health checks
+
+Showcase of [↑ health checks](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks) in ASP.NET Core.
 
 ## Prerequisites
 
